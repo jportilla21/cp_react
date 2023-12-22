@@ -1,0 +1,35 @@
+.navbar {
+  color: rgb(255, 255, 255);
+  background-image: url("../../assets/Fondo-Nav-Bar.jpg");
+  background-size: cover; 
+  background-position: center; 
+}
+
+.navbar .navbar-brand img {
+  width: 200px;
+}
+
+.navbar .navbar-collapse .ml-auto {
+  margin-right: 30px !important;
+}
+
+.navbar .navbar-collapse .ml-auto a {
+  font-size: 19px;
+  color: white;
+  margin-right: 15px;
+}
+
+.navbar .MuiBadge-badge {
+  margin: -2px;
+}
+
+.navbar .icon {
+  display: none;
+}
+
+@media only screen and (max-width: 992px) {
+  .navbar .icon {
+    display: block;
+  }
+}
+

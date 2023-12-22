@@ -1,0 +1,35 @@
+.table-data__title {
+  padding-top: 280px;
+  color:brown;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.table-data h1{
+  font-size: 28px;
+}
+
+.table-data table {
+  width: 90%;
+  margin: 30px auto;
+}
+
+.table th {
+  background-color: #f7f7f7;
+  color: rgb(97, 1, 1);
+  padding: 8px; 
+  border: 1px solid #ddd; 
+  text-align: center; 
+  vertical-align: middle; 
+}
+
+.table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: center; 
+  vertical-align: middle; 
+}
+
+.table-data {
+  margin-bottom: 10px; 
+}

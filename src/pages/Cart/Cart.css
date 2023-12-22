@@ -1,0 +1,11 @@
+.card-header {
+  background-color: black;
+  color: rgb(149, 149, 149);
+}
+
+.cart-message {
+    margin: 0 auto;
+    margin-top: 280px;
+    max-width: 500px;
+}
+  

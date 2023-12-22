@@ -1,0 +1,23 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #3c3c3c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 11vh;
+}
+
+.name {
+  padding-top: 20px;
+  color: rgb(246, 246, 246);
+}
+
+.city {
+  text-align: center;
+  text-decoration: none;
+  color: rgb(223, 222, 222);
+  padding: 10px 0px 10px;
+}

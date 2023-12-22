@@ -1,0 +1,40 @@
+.link a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.link__item {
+  margin: 60px 20px -40px 20px;
+  transition: ease 400ms;
+  background-color: #f1f1f1; 
+  padding: 8px; 
+  border-radius: 10px; 
+}
+
+.link__item:hover {
+  transform: scale(1.1) !important;
+  color: rgb(111, 0, 0);
+}
+
+.card-title {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.card-img-top {
+  border-radius: 5px; 
+  margin-bottom: 10px; 
+}
+
+.item-price {
+  font-size: 18px; 
+  font-weight: bold;
+  display: block;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.item-details p{
+  margin-top: 10px;
+}

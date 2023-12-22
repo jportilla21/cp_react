@@ -1,0 +1,25 @@
+.counter-input {
+    width: 40px;
+    border: none;
+    outline: none;
+    font-size: 8px;
+    text-align: center;
+}
+
+.counter__content-controls {
+    color:rgb(124, 1, 1);
+}
+
+.counter__content-controls-add{
+    color: rgb(124, 1, 1);
+}
+
+.counter__content-controls-subtract{
+    color:rgb(124, 1, 1);
+}
+
+.counter__content-controls-value{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 2px;
+}

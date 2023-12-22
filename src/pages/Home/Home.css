@@ -1,0 +1,16 @@
+.home {
+  padding-top: 80px;
+  margin-bottom: 200px;
+}
+
+.home__title {
+  margin-bottom: 100px;
+}
+
+.home__title h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 20px;
+}

@@ -1,0 +1,39 @@
+.container {
+    margin-top: 200px;
+}
+  
+.text-center {
+    text-align: center;
+}
+  
+.form-label {
+    font-weight: bold;
+}
+  
+.form-control {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  display: block; 
+}
+
+.field-container {
+  margin-bottom: 10px; 
+}
+
+  
+.custom-button {
+    background-color: #ff0000; 
+    color: #fff;
+    border: 1px solid #ff0000; 
+    width: 150px;
+    margin: 0 auto;
+}
+  
+  .custom-button:hover {
+    background-color: #cc0000; 
+    border: 1px solid #cc0000; 
+}
+  

@@ -1,0 +1,27 @@
+
+.btn {
+  color: rgb(255, 255, 255);
+  background-color: rgb(140, 8, 8);
+  border-color: brown;
+  border-radius: 18px;
+}
+
+.btn:hover {
+  background-color: rgb(186, 2, 2);
+  border-color: rgb(182, 1, 1);
+}
+
+.detalle-compra {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+  width: 80%; 
+  max-width: 1000px; 
+  margin: 0 auto; 
+  padding: 20px;
+  box-sizing: border-box;
+  overflow-y: scroll; 
+  min-height: 200px; 
+}

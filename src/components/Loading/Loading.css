@@ -1,0 +1,12 @@
+.custom-spinner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.custom-spinner p {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #420000; 
+} 
+
